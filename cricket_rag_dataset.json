@@ -1,0 +1,35 @@
+{
+  "documents": [
+    {
+      "id": "doc_001",
+      "title": "History of Cricket",
+      "content": "Cricket originated in England in the 16th century and became an international sport by the 19th century. The International Cricket Council (ICC) was founded in 1909 to govern the game worldwide."
+    },
+    {
+      "id": "doc_002",
+      "title": "Cricket Formats",
+      "content": "There are three major formats of cricket: Test cricket, One Day Internationals (ODIs), and Twenty20 (T20). Test cricket is played over five days, while ODIs and T20s are limited-overs formats."
+    },
+    {
+      "id": "doc_003",
+      "title": "Legendary Cricketers",
+      "content": "Sachin Tendulkar is the highest run-scorer in international cricket. Don Bradman holds the highest Test batting average of 99.94. Muttiah Muralitharan is the highest wicket-taker in Test cricket."
+    },
+    {
+      "id": "doc_004",
+      "title": "Cricket World Cups",
+      "content": "The ICC Cricket World Cup was first held in 1975. Australia has won the most ODI World Cups. The ICC T20 World Cup began in 2007."
+    },
+    {
+      "id": "doc_005",
+      "title": "Important Cricket Records",
+      "content": "Brian Lara scored the highest individual Test score of 400 not out. England holds the highest ODI team score of 498 runs."
+    }
+  ],
+  "metadata": {
+    "domain": "sports",
+    "topic": "cricket",
+    "use_case": "RAG testing",
+    "language": "english"
+  }
+}
